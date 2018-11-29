@@ -14,7 +14,7 @@
 /*Write your CSS rules below!*/
 
 body {
-    font-size: 25px;
+    font-size:1.5em;
     line-height: 1.5;
     font-family: "Crimson Text", "Georgia";
 }
@@ -35,4 +35,5 @@ code {
 #font-practice{
    font-style: italic;
     color:green;
+    font-size:.75em;
 }
