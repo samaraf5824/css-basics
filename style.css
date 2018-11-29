@@ -13,3 +13,26 @@
 
 /*Write your CSS rules below!*/
 
+body {
+    font-size: 25px;
+    line-height: 1.5;
+    font-family: "Crimson Text", "Georgia";
+}
+h1 {
+    font-size: 72px;
+}
+h1, h2 {
+    text-align: center;
+    font-family: "Oswald", "Helvetica Neue";
+    color: #2884C3;
+}
+code {
+    color: #CE234C;
+}
+.snippet{
+    background:lightgrey;
+}
+#font-practice{
+   font-style: italic;
+    color:green;
+}
