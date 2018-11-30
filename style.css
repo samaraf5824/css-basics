@@ -45,3 +45,15 @@ hr {
     background: #333;
     background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
+a:link{
+    color:green;
+}
+a:visited{
+ color:blue;   
+}
+a:hover{
+    color:red;
+}
+a:active{
+    color:black;
+}
